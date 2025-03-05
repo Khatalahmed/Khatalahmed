@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Khatalahmed/Khatalahmed/blob/main/download%20(2).jpg" alt="Data Science" width="600px">
+</p>
+
+
 <h1 align="center">Hi there, I'm Khatalahmed 👋</h1>  
 <p align="center">
 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast  
