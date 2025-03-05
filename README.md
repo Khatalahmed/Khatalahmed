@@ -22,8 +22,8 @@
 ## 📫 How to Reach Me  
 
 - ✉️ Email: **ahmmuuahmed@gmail.com**  
-- 💼 LinkedIn: [Khatal Ahmed](https://www.linkedin.com/in/khatal-ahmed-901524103/)  
-- 🏗️ GitHub: **[@YourGitHubUsername](https://github.com/YourGitHubUsername)**  
+- 💼 LinkedIn: **[Khatalahmed](https://www.linkedin.com/in/khatal-ahmed-901524103/)**
+- 🏗️ GitHub: **[@Khatalahmed](https://github.com/Khatalahmed)**  
 
 ---
 
