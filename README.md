@@ -20,7 +20,7 @@
 
 ## 📫 How to Reach Me  
 
-- ✉️ Email: **ahmmuuahmed@gmail.com**  
+- ✉️ Email: **khatalahmed.ds@gmail.com**  
 - 💼 LinkedIn: **[Khatalahmed](https://www.linkedin.com/in/khatal-ahmed-901524103/)**  
 - 🏗️ GitHub: **[@Khatalahmed](https://github.com/Khatalahmed)**  
 
