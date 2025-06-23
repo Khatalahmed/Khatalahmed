@@ -11,7 +11,7 @@
 
 ## 📌 About Me  
 
-Hi, I'm **Khatalahmed**, a passionate and results-driven **Data Scientist** with 2 years of relevant experience (including a 6-month internship and 1.5 years full-time) in building machine learning models, delivering business insights, and creating impactful data solutions.
+Hi, I'm **Khatalahmed**, a passionate and results-driven **Data Scientist** in building machine learning models, delivering business insights, and creating impactful data solutions.
 
 🎯 I specialize in:
 - Predictive modeling (Time Series, Regression, Classification)
