@@ -18,7 +18,7 @@ Hi, I'm **Khatalahmed**, a passionate and results-driven **Data Scientist** with
 - Data visualization (Power BI, Matplotlib, Seaborn)
 - Machine Learning pipelines using Python, Scikit-learn, and XGBoost
 - Dashboarding and real-time data tools using Streamlit
-- 
+  
 💡 Currently exploring:
 - GenAI and LLM fine-tuning
 - Advanced Time Series modeling
