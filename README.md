@@ -11,12 +11,18 @@
 
 ## 📌 About Me  
 
-- 🚀 **Proficient in Deep Learning, MLOps, and Advanced NLP**  
-- 💡 **Passionate about Machine Learning, AI, and Data Visualization**  
-- 🔍 Always exploring new ways to extract insights from data and build intelligent systems  
-- 🤝 Open to collaborations on **ML/DL projects, research, and AI innovations**  
+Hi, I'm **Khatalahmed**, a passionate and results-driven **Data Scientist** with 2 years of relevant experience (including a 6-month internship and 1.5 years full-time) in building machine learning models, delivering business insights, and creating impactful data solutions.
 
-
+🎯 I specialize in:
+- Predictive modeling (Time Series, Regression, Classification)
+- Data visualization (Power BI, Matplotlib, Seaborn)
+- Machine Learning pipelines using Python, Scikit-learn, and XGBoost
+- Dashboarding and real-time data tools using Streamlit
+- 
+💡 Currently exploring:
+- GenAI and LLM fine-tuning
+- Advanced Time Series modeling
+- Scalable deployment using FastAPI and basic AWS
 ---
 
 ## 🛠️ Skills & Tools  
