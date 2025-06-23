@@ -16,12 +16,6 @@
 - 🔍 Always exploring new ways to extract insights from data and build intelligent systems  
 - 🤝 Open to collaborations on **ML/DL projects, research, and AI innovations**  
 
----
-
-## 📫 How to Reach Me  
-
-- 💼 LinkedIn: **[Khatalahmed](https://www.linkedin.com/in/khatal-ahmed-901524103/)**  
-- 🏗️ GitHub: **[@Khatalahmed](https://github.com/Khatalahmed)**  
 
 ---
 
