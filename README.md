@@ -53,20 +53,6 @@ class AhmedKhatal:
 <tr>
 <td width="50%" valign="top">
 
-#### 📊 Pattern Platform
-**Production AI analytics platform** — ask your database questions in plain English.
-
-- **NL-to-SQL** with read-only validation + human-in-the-loop approval
-- **Advanced RAG** over DB schemas: pgvector + **HyDE + RAG Fusion**
-- **LangGraph** multi-agent pipeline + **MCP server** for tool access
-- **Sandboxed ML execution** (Docker) with SHAP explanations
-- **RBAC**, Fernet encryption, LLMOps eval, GCP Cloud Run
-
-`FastAPI` `LangGraph` `pgvector` `Vertex AI` `MCP` `XGBoost` `SHAP` `GCP`
-
-</td>
-<td width="50%" valign="top">
-
 #### 🏠 [AI Operating System for PG Hostels](https://github.com/Khatalahmed/AI-operating-system-for-PG-hostels)
 **Manage an entire hostel by chatting with an AI.**
 
@@ -79,8 +65,6 @@ class AhmedKhatal:
 `FastMCP` `Gemini` `asyncpg` `PostgreSQL` `LangGraph` `Next.js`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🔔 [Customer Churn Early-Warning Agent](https://github.com/Khatalahmed/customer_churn_alert_agent)
@@ -95,16 +79,12 @@ class AhmedKhatal:
 `DeepAgents` `LangGraph` `XGBoost` `SHAP` `Vertex AI`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 #### 🎯 Why these stand out
-Not demos — each ships with the hard parts:
-
-- ✅ **Guardrails** before the LLM ever runs
-- ✅ **Automated evaluation** (RAGAS, LLM-as-judge)
-- ✅ **Verification layers** that fact-check the model
-- ✅ **Human-in-the-loop** on risky actions
-- ✅ **Observability** + cost/latency awareness
+Not demos — each ships with the hard parts: ✅ **Guardrails** before the LLM ever runs · ✅ **Automated evaluation** (RAGAS, LLM-as-judge) · ✅ **Verification layers** that fact-check the model · ✅ **Human-in-the-loop** on risky actions · ✅ **Observability** + cost/latency awareness
 
 </td>
 </tr>
@@ -211,31 +191,6 @@ Classical ML foundation behind the GenAI work:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86FF,100:6E56CF&height=3" width="100%" />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khatalahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatalahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khatalahmed&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<!-- Live contribution activity graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khatalahmed&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-
-<br><br>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Khatalahmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
