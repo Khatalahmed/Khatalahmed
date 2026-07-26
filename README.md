@@ -64,6 +64,8 @@ class AhmedKhatal:
 
 `FastMCP` `Gemini` `asyncpg` `PostgreSQL` `LangGraph` `Next.js`
 
+**🎯 Why it stands out:** a real hostel runs on it — role-scoped tool access, destructive ops hard-blocked from the agent, and a capped function-calling loop that always terminates.
+
 </td>
 <td width="50%" valign="top">
 
@@ -78,13 +80,7 @@ class AhmedKhatal:
 
 `DeepAgents` `LangGraph` `XGBoost` `SHAP` `Vertex AI`
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 🎯 Why these stand out
-Not demos — each ships with the hard parts: ✅ **Guardrails** before the LLM ever runs · ✅ **Automated evaluation** (RAGAS, LLM-as-judge) · ✅ **Verification layers** that fact-check the model · ✅ **Human-in-the-loop** on risky actions · ✅ **Observability** + cost/latency awareness
+**🎯 Why it stands out:** every escalation is verifiable — an independent verifier re-queries the DB for 100% evidence fidelity, and the agent overrides the model when evidence proves benign.
 
 </td>
 </tr>
@@ -107,6 +103,8 @@ Not demos — each ships with the hard parts: ✅ **Guardrails** before the LLM 
 
 `LangGraph` `Qdrant` `FlashRank` `NeMo` `Portkey` `RAGAS` `Cloud Run`
 
+**🎯 Why it stands out:** built for hostile inputs — NeMo guardrails block jailbreaks before the LLM runs, RAGAS scores faithfulness, and a Portkey gateway survives rate limits and outages.
+
 </td>
 <td width="50%" valign="top">
 
@@ -120,6 +118,8 @@ Not demos — each ships with the hard parts: ✅ **Guardrails** before the LLM 
 - **Gemini LLM-as-judge** eval on 5 calibrated criteria
 
 `Qwen3` `QLoRA` `Unsloth` `ChromaDB` `llama.cpp` `Ollama`
+
+**🎯 Why it stands out:** the full LLM lifecycle in one repo — QLoRA fine-tune → GGUF quantize → local Ollama serving at zero API cost, judged by a calibrated LLM-as-judge harness.
 
 </td>
 </tr>
@@ -136,6 +136,8 @@ Not demos — each ships with the hard parts: ✅ **Guardrails** before the LLM 
 - CI-tested endpoints (pytest)
 
 `FastAPI` `Gemini` `pgvector` `PostgreSQL` `RAGAS`
+
+**🎯 Why it stands out:** privacy- & governance-first — feedback stored as metadata hashes only, RAGAS governance reports, configurable rate limiting, and CI-tested endpoints.
 
 </td>
 <td width="50%" valign="top">
